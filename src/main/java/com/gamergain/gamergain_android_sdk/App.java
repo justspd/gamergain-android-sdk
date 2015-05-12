@@ -1,4 +1,4 @@
-package com.gamergain;
+package com.gamergain.gamergain_android_sdk;
 
 import android.app.Application;
 
